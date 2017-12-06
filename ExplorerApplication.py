@@ -11,7 +11,6 @@ from bokeh.plotting import figure
 from bokeh.layouts import layout
 from bokeh.layouts import widgetbox
 from bokeh.io import curdoc
-from bokeh.io import save
 
 # Set path to movies database
 working_directory = "C:\\Users\\Ashley Rodondi\\Documents\\BMKT 670 Applied Data Analytics\\Projects\\Explorer Application\\"
